@@ -38,9 +38,9 @@ Hi there 👋 Im <b>Akinshola Akinniyi</b> 👋 Welcome to my GitHub profile! I'
 </div>
 
 ###
-
+You can reach me on :
 <div>
-  <a href="">
+  <a href="https://myig.com">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a>
