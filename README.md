@@ -1,10 +1,15 @@
-Hi there 👋 Im Akinshola Akinniyi 👋 Welcome to my GitHub profile! I'm a software engineer with a passion for building innovative solutions that solve real-world problems. I specialize in web development, with expertise in JavaScript, React, and Python (Django web Framework), and knowledge of HTML, CSS, Python, and Java. I'm dedicated to writing clean, efficient code and contributing to open-source projects that make a positive impact. Feel free to browse my repositories and reach out to me to discuss any exciting opportunities or ideas. Let's connect and collaborate on interesting projects together!
+Hi there 👋 Im <b>Akinshola Akinniyi</b> 👋 Welcome to my GitHub profile! I'm a <b>software engineer</b> with a passion for building innovative solutions that solve real-world problems. I specialize in web development, with <b>expertise in JavaScript, React, and Python (Django web Framework), and knowledge of HTML, CSS, Python, and Java</b>. I'm dedicated to writing clean, efficient code and contributing to open-source projects that make a positive impact. Feel free to browse my repositories and reach out to me to discuss any exciting opportunities or ideas. Let's connect and collaborate on interesting projects together!
 <hr/>
-###
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshola00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshola00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+
+  <img src="https://streak-stats.demolab.com?user=Akshola00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 </div>
 
 ###
