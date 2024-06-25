@@ -1,4 +1,4 @@
-unnohino![Design and Development](https://github.com/Akshola00/Akshola00/blob/main/imggg.jpg)
+buib![Design and Development](https://github.com/Akshola00/Akshola00/blob/main/imggg.jpg)
 Hi there 👋 Im <b>Akinshola Akinniyi</b> 👋 Welcome to my GitHub profile! I'm a <b>software engineer</b> with a passion for building innovative solutions that solve real-world problems. I specialize in web development, with <b> hhwnege e expertise in JavaScript, React, and Python (Django web Framework), and knowledge of HTML, CSS, Python, and Java</b>. I'm dedicated to writing clean, efficient code and contributing to open-source projects that make a positive impact. Feel free to browse my repositories and reach out to me to discuss any exciting opportunities or ideas. Let's connect and collaborate on interesting projects together!bulg,kb
 <hr/>
 do
