@@ -9,12 +9,13 @@
 
 **Fullstack & Web3 Developer** | **Frontend:** Next.js, React | **Backend:** Python, Django  
 🔹 **StarkNet Builder** with Cairo | **Smart Contracts** with Solidity  
-🔹 Currently learning **Rust** for blockchain and system-level development  
+🔹 Learning **Rust** for blockchain and system-level development  
 
 ---
 
 ## 🚀 About Me  
 Passionate about building in the Web3 space, I’m a full-stack developer with a focus on decentralized applications and smart contracts. I’m also expanding my skills in Rust, aiming to deepen my understanding of high-performance and secure blockchain development.
+Im also an active member of the starknet community and contribute to open source projects on starknet.
 
 ---
 
